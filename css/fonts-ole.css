@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i');
+
+@font-face {
+    font-family:'Aachen';
+    src:url('../fonts/AachenBold.eot');
+    src:url('../fonts/AachenBold.eot?#iefix') format('embedded-opentype'),url('../fonts/AachenBold.woff2') format('woff2'),url('../fonts/AachenBold.woff') format('woff'),url('../fonts/AachenBold.ttf') format('truetype'),url('../fonts/AachenBold.svg#aachenbold') format('svg');
+    font-weight: 700;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Aachen';
+    src:url('../fonts/AachenMediumPlain.eot');
+    src:url('../fonts/AachenMediumPlain.eot?#iefix') format('embedded-opentype'),url('../fonts/AachenMediumPlain.woff2') format('woff2'),url('../fonts/AachenMediumPlain.woff') format('woff'),url('../fonts/AachenMediumPlain.ttf') format('truetype'),url('../fonts/AachenMediumPlain.svg#aachen_mediumregular') format('svg');
+    font-weight: 400;
+    font-style:normal;
+}
+@font-face {
+    font-family:'Aachen';
+    src:url('../fonts/AachenRegular.eot');
+    src:url('../fonts/AachenRegular.eot?#iefix') format('embedded-opentype'),url('../fonts/AachenRegular.woff2') format('woff2'),url('../fonts/AachenRegular.woff') format('woff'),url('../fonts/AachenRegular.ttf') format('truetype'),url('../fonts/AachenRegular.svg#aachenregular') format('svg');
+    font-weight:300;
+    font-style:normal;
+}
